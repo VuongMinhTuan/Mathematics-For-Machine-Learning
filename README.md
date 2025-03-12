@@ -3,8 +3,8 @@ Welcome everyone to my repository! This is where I build the mathematical founda
 
 > Click [here](https://mml-book.github.io/) for more information about the book
 
-If the link above has any issues, please contact the authors. Alternatively, if you are only interested in the content of the book and not other information, I have included the e-book in this repository.
+If the link above has any issues, please contact the authors. Alternatively, if you are only interested in the content of the book and not other information, I have included the [e-book](https://github.com/VuongMinhTuan/Mathematics-For-Machine-Learning/blob/master/ebook.pdf) in this repository.
 
-If you have any questions or would like to contribute ideas, don’t hesitate to reach out and discuss with me.
+If you have any questions or would like to contribute ideas, don’t hesitate to reach out and discuss with [me](https://github.com/VuongMinhTuan/VuongMinhTuan).
 
 Thank you, and happy learning!
