@@ -1,0 +1,9 @@
+[submodule "Linear-Algebra"]
+	path = Linear-Algebra
+	url = https://github.com/VuongMinhTuan/Linear-Algebra.git
+[submodule "Probability-Statistics"]
+	path = Probability-Statistics
+	url = https://github.com/VuongMinhTuan/Probability-Statistics.git
+[submodule "Calculus"]
+	path = Calculus
+	url = https://github.com/VuongMinhTuan/Calculus.git
